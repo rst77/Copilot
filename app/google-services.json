@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138060789272",
+    "project_id": "copilot-dev-a93eb",
+    "storage_bucket": "copilot-dev-a93eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138060789272:android:a27dbce295253d1009756d",
+        "android_client_info": {
+          "package_name": "com.r13a.copilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138060789272-h14612493q7t8h4mplh3a98irv290ksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHIU_6njwp5pec4jvo0H6yhCWq8_ZrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138060789272-h14612493q7t8h4mplh3a98irv290ksl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
